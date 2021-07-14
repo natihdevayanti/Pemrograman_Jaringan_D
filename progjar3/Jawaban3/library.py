@@ -8,7 +8,7 @@ import datetime
 def get_url_list():
     urls = dict()
     urls['olivia']='https://m.media-amazon.com/images/M/MV5BYTYxODRmNzItMGFkNS00Mzk4LTk0NTMtYjdiYjgwYWNhODQ2XkEyXkFqcGdeQXVyNTg1MDY4NjQ@._V1_UY1200_CR285,0,630,1200_AL_.jpg'
-    urls['taylor']='https://upload.wikimedia.org/wikipedia/commons/7/7f/Taylor_Swift_%286966830273%29.jpg'
+    urls['taylor']='http://jadiberita.com/wp-content/uploads/2014/06/taylor-swift-presenting-jpg.jpg'
     return urls
 
 def download_gambar(url=None,tuliskefile='image'):
